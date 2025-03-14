@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+loans:
+  message: "Welcome to the Loans service (QA)"
+  contactDetails:
+    email: "support.qa@loans.com"
+    phone: "1-800-LOANS-QA"
+    location: "https://goo.gl/maps/8a3jv4qXKj42"
+
+  onCallSupport:
+    name: "QA Support Team"
+    phone: "1-800-SUPPORT-QA"
+    email: "support.qa@loans.com"

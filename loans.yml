@@ -1,0 +1,14 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Hello from loans service"
+  contactDetails:
+    email: "radom.kh@gmail.com"
+    phone: "1234567890"
+    location: "https://www.google.com/maps/place/Space+Needle/@47.620511,-122.3493587,15z/data=!4m5!3m4!1s0x549015385c85a39f:0x302b3bff9f4b1e0!8m2!3d47.6205114!4d-122.349359"
+
+  onCallSupport:
+    name: "RADOM KHOEM"
+    phone: "1234567890"
+    email: "radom.kh@gmail.com"

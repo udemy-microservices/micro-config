@@ -1,0 +1,14 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to the Cards service (PROD)"
+  contactDetails:
+    email: "support@cards.com"
+    phone: "1-800-CARDS"
+    location: "https://goo.gl/maps/8a3jv4qXKj42"
+
+  onCallSupport:
+    name: "Cards Support Team"
+    phone: "1-800-CARDS-SUPPORT"
+    email: "support@cards.com"
