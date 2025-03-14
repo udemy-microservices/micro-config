@@ -11,4 +11,4 @@ accounts:
   onCallSupport:
     name: "Support Team"
     phone: "1-800-SUPPORT"
-    email: "72213914261c429cb06c446c256f5b22bf55a417e93121f80a2f785b58a5dc1b2807dfb3d722bef3a4a9cd2f589f99b0"
+    email: "{cipher}72213914261c429cb06c446c256f5b22bf55a417e93121f80a2f785b58a5dc1b2807dfb3d722bef3a4a9cd2f589f99b0"
