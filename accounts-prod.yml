@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to the Accounts service (PROD)"
+  message: "Welcome to the Accounts service (PRODUCTION)"
   contactDetails:
     email: "support@accounts.com"
     phone: "1-800-ACCOUNTS"
