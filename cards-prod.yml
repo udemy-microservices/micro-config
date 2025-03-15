@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to the Cards service (PROD)"
+  message: "Welcome to the Cards service (PRODUCTION)"
   contactDetails:
     email: "support@cards.com"
     phone: "1-800-CARDS"
